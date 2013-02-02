@@ -1,0 +1,31 @@
+Tempo:	1 69 X.X.
+	1 8/8 69 X.X.XxXx
+IntroA:	8 8/8 69 XxXxXxXx
+IntroB:	7 8/8 69 XxXxXxXx
+	1 8/8 69-65 XxXxXxXx
+Corona:	2 78 X...
+Tempo:	1 8/8 78 X.X.XxXx
+Riff:	7 8/8 156 X.x.x.x.
+	1 8/8 156 XxXxXxXx
+Strofa:	17 156
+	1 156 XXXX
+Bridge:	16 156
+	4 156 X...
+	1 156 X.X.
+Tempo2:	1 156 XxXx
+RiprA:	17 156
+	1 8/8 156 X.x.xxxx
+#	1 156 XxXx
+Stop1:	3 8/8 156 XXx.xxXx
+	1 8/8 156 XxXxXXXX
+Strum:	4 16/8 156 XxxXxXxxXxXxxXxx
+	1 10/8 156 X..X..XxXx
+	4 16/8 156 XxxXxXxxXxXxxXxx
+	1 6/8 156 X..Xxx
+Stop2:	3 8/8 156 XXx.xxXx
+	1 8/8 156 XxXxXxXx
+RiprB:	16 156
+	1 16/8 156 X.x.x.x.XxXxXxXx
+Finale:	4 16/8 156 XxxXxXxxXxXxxXxx
+	1 10/8 156 XxxXxxXxXx
+	16 156

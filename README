@@ -1,0 +1,22 @@
+klickui - a graphical interface for klick, the advanced metronome for jack
+
+Copyright (C) 2012-2013 Maurizio Berti <%s.%s@gmail.com>
+
+
+Requirements:
+=============
+
+* Python 2.7 [http://python.org/]
+* PyQT4 [http://www.riverbankcomputing.co.uk/software/pyqt/intro/]
+* klick [http://das.nasophon.de/klick/]
+
+For klick
+* JACK Audio Connection Kit [http://jackaudio.org/]
+* Boost [http://www.boost.org/] (headers only)
+* libsamplerate [http://www.mega-nerd.com/SRC/]
+* libsndfile [http://www.mega-nerd.com/libsndfile/]
+
+ToDo:
+=====
+
+* Almost everything! ;)
